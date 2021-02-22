@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="login_with_oauth">Login with OAuth</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="loading_error">An error occurred during loading</string>
+    <string name="try_again">Try logging in again!</string>
+    <string name="error_loading_repos">Error loading repos</string>
+    <string name="some_repos_error">Some repos were not loaded</string>
+</resources>
